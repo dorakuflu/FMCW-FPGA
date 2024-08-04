@@ -1,0 +1,83 @@
+Time resolution is 1 ps
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - C_CHANNELS  = 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - field_width = 4
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - Copying SCALE_SCH from 4 downto 1 to 4 downto 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - C_CHANNELS  = 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - field_width = 4
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - Copying SCALE_SCH from 4 downto 1 to 4 downto 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - C_CHANNELS  = 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - field_width = 4
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - Copying SCALE_SCH from 4 downto 1 to 4 downto 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - C_CHANNELS  = 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - field_width = 4
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - Copying SCALE_SCH from 4 downto 1 to 4 downto 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Output data[0]: 0000e262
+Output data[1]: 0044215f
+Output data[2]: fd2ff166
+Output data[3]: 005900bd
+Output data[4]: 00320040
+Output data[5]: 001e001b
+Output data[6]: 0012000b
+Output data[7]: 00090003
+Output data[8]: 00000002
+Output data[9]: fff80003
+Output data[10]: ffef000c
+Output data[11]: ffe3001b
+Output data[12]: ffce0040
+Output data[13]: ffa600bf
+Output data[14]: 02d0f167
+Output data[15]: ffbb2161
+$finish called at time : 2346250 ps : File "C:/Users/kuflu/Vivado/VivadoProjects/FMCW/FMCW.srcs/sim_1/new/tb_top_wrapper.sv" Line 157
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - C_CHANNELS  = 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - field_width = 4
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - Copying SCALE_SCH from 4 downto 1 to 4 downto 1
+Time: 0 ps  Iteration: 0  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - C_CHANNELS  = 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:     - field_width = 4
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Note:   - Copying SCALE_SCH from 4 downto 1 to 4 downto 1
+Time: 0 ps  Iteration: 1  Process: /tb_top_wrapper/uut/FFT0/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__862  File: C:/Xilinx/Vivado/2024.1/data/ip/xilinx/xfft_v9_1/hdl/axi_wrapper.vhd
+Output data[0]: 0000e262
+Output data[1]: 0044215f
+Output data[2]: fd2ff166
+Output data[3]: 005900bd
+Output data[4]: 00320040
+Output data[5]: 001e001b
+Output data[6]: 0012000b
+Output data[7]: 00090003
+Output data[8]: 00000002
+Output data[9]: fff80003
+Output data[10]: ffef000c
+Output data[11]: ffe3001b
+Output data[12]: ffce0040
+Output data[13]: ffa600bf
+Output data[14]: 02d0f167
+Output data[15]: ffbb2161
+$finish called at time : 2346250 ps : File "C:/Users/kuflu/Vivado/VivadoProjects/FMCW/FMCW.srcs/sim_1/new/tb_top_wrapper.sv" Line 157

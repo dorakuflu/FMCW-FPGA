@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FMCW.srcs/sources_1/new/data_processing.v" \
+"../../../../FMCW.srcs/sources_1/new/hamming_window.v" \
+"../../../../FMCW.srcs/sources_1/new/qspi_master.v" \
+"../../../../FMCW.srcs/sources_1/new/qspi_slave.v" \
+"../../../../FMCW.srcs/sources_1/new/top_wrapper.v" \
+
+sv xil_defaultlib  \
+"../../../../FMCW.srcs/sim_1/new/tb_top_wrapper.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

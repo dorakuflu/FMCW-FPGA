@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../FMCW.gen/sources_1/ip/FFT0/sim/FFT0.vhd" \
+
+# Do not sort compile order
+nosort
